@@ -3,7 +3,7 @@ body {
   background-color: #f6fffc;
   width: 900px:auto;
   padding-left: 20px;
-  font-size: 18px;
+  font-size: 20px;
 }
 
 .header {
@@ -15,7 +15,8 @@ body {
 
 .header-container {
   width: 1200px;
-  background-color: #3780e8;
+  background-color: #54b1ff;
+  margin-bottom: 20px;
 }
 
 #title {
@@ -24,5 +25,5 @@ body {
 }
 
 #jls {
-  color: #
+  color: #b26f05;
 }
