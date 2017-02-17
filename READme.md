@@ -1,6 +1,6 @@
 # Blake's Portfolio Page
 
-Welcome to my portfolio page. This is the initial release (1.0) and here I'll begin to structure the page for future revisions. Please consider this a work-in-progress.
+Welcome to my portfolio page. This is the initial release (1.0) and here I'll begin to structure the page for future revisions. Please consider this a work-in-progress. Check out my page on gh-pages: https://likewater.github.io/my-portfolio/
 
 ## Getting Started
 
